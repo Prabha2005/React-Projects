@@ -1,0 +1,31 @@
+.count-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 100px;
+  font-family: Arial, sans-serif;
+}
+
+.count-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: darkgreen;
+}
+
+span {
+  font-size: 18px;
+}

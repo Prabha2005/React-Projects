@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.title {
+  color: green;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.item-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 300px;
+  font-family: Arial, sans-serif;
+}
+
+.item-table th,
+.item-table td {
+  border: 1px solid #888;
+  padding: 10px;
+  color: green;
+  font-weight: bold;
+}
+
+.item-table th {
+  background-color: #f2f2f2;
+}
